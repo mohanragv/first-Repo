@@ -1,0 +1,13 @@
+The relational database management system (or RDBMS) had been the one solution for all database needs. Oracle, IBM (IBM), and Microsoft (MSFT) are the leading players of RDBMS. RDBMS uses structured query language (or SQL) to define, query, and update the database. However, the volume and velocity of business data has changed dramatically in the last couple of years. It’s skyrocketing every day.
+
+Limitations of RDBMS to support “big data”
+
+First, the data size has increased tremendously to the range of petabytes—one petabyte = 1,024 terabytes. RDBMS finds it challenging to handle such huge data volumes. To address this, RDBMS added more central processing units (or CPUs) or more memory to the database management system to scale up vertically.
+
+Second, the majority of the data comes in a semi-structured or unstructured format from social media, audio, video, texts, and emails. However, the second problem related to unstructured data is outside the purview of RDBMS because relational databases just can’t categorize unstructured data. They’re designed and structured to accommodate structured data such as weblog sensor and financial data.
+
+Also, “big data” is generated at a very high velocity. RDBMS lacks in high velocity because it’s designed for steady data retention rather than rapid growth. Even if RDBMS is used to handle and store “big data,”  it will turn out to be very expensive.
+As a result, the inability of relational databases to handle “big data” led to the emergence of new technologies.
+
+ 
+
